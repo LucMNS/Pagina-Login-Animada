@@ -49,7 +49,7 @@ E pronto! A página estará funcionando.
 Ou
 
 **Acesse por esse link:**
-https://devlucsmns.github.io/Pagina-Login-Animada/
+https://lucmns.github.io/Pagina-Login-Animada/
 
 ---
 
@@ -59,6 +59,6 @@ Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para m
 
 MIT License
 
-Copyright (c) 2025 DevLucsMNS
+Copyright (c) 2025 LucMNS
 
 ...
