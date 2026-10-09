@@ -59,6 +59,6 @@ Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para m
 
 MIT License
 
-Copyright (c) 2025 LucMNS
+Desenvolvido por LucMNS
 
 ...
